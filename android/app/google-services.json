@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215428045344",
+    "project_id": "fireside-chat-5df62",
+    "storage_bucket": "fireside-chat-5df62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215428045344:android:f5ee75b2e98ee4d881fa45",
+        "android_client_info": {
+          "package_name": "com.example.messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215428045344-hpd445hihcj03pdobt2bbgurjf59d5ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFmWnEh0GikzMMzS210eNJ5Rpm-plvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215428045344-hpd445hihcj03pdobt2bbgurjf59d5ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
